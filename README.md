@@ -14,7 +14,7 @@ Getting an API key for Google Gemini is easy.
    2) Tap on the ``Get API Key`` button on the left.
    3) Generate an API key.
    4) Copy the API key.
-   5) Paste the API key into the API key modal in the HTML5 interface.
+   5) Paste the API key into the API key alert window in the HTML5 interface.
 
 # Heads Up!
 Please be wary of the rate limits.
