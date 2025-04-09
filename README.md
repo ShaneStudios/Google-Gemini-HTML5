@@ -19,4 +19,5 @@ Getting an API key for Google Gemini is easy.
 # Heads Up!
 Please be wary of the rate limits.
 Rate limits vary between models.
+The HTML file will be updated from time to time; Be sure to check every now and then to see if this has been updated.
 (All data is stored locally in your browser's cache, so do not worry about your API key being used by me or someone else)
